@@ -1,16 +1,56 @@
 {
-  "posts":[
+  "data": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "cows": [
+        {
+          "id": 1,
+          "name": "Gir",
+          "about":"Originated in Gir forests of South Kathiawar in Gujarat also found in Maharashtra and adjacent Rajasthan"
+
+        },
+        {
+          "id": 2,
+          "name": "Red Sindhi",
+          "about":"Originated in Karachi and Hyderabad (Pakistan) regions of undivided India and also reared in certain organized farms in our country."
+
+
+        },
+        {
+
+          "id": 3,
+          "name": "Sahiwal",
+          "about":"Originated from the former princely state of Vijayanagarm, presently part of Karnataka."
+
+        },
+        {
+          "id": 4,
+          "name": " Amritmahal",
+          "about":"Originated in Hassan, Chikmagalur and Chitradurga district of Karnataka."
+        },{
+          "id": 5,
+          "name": "Khillaril",
+          "about":"Originated from Sholapur and Sitapur districts of Maharashtra."
+        },{
+          "id": 6,
+          "name": "Kangayam",
+          "about":"Originated in Kangayam, Dharapuram, Perundurai, Erode, Bhavani and part of Gobichettipalayam taluk of Erode and Coimbatore district."
+        },{
+          "id": 7,
+          "name": "Bargur",
+          "about":"Found around Bargur hills in Bhavani taluk of Erode district in Tamilnadu."
+
+        },{
+          "id": 8,
+          "name": "Umblachery",
+          "about":"Originated inThanjavur, Thiruvarur and Nagappattinam districts of Tamil Nadu."
+        },
+        {
+          "id": 9,
+          "name": "Pulikulam",
+          "about":"This breed is commonly seen in cumbum valley of Madurai district in Tamil Nadu."
+        }
+
+      ]
     }
   ]
 }
